@@ -4,6 +4,7 @@ description: 'Urban Transportation, Land Use, and the Environment in Latin Ameri
   A Case Study Approach'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/8647308670b36d7ddea4311b19cc614b_Lecture6A.pdf
 file_type: application/pdf
+parent_uid: d94c6824-766e-f0dc-d714-c88bc9fd0fdd
 resourcetype: Document
 title: Lecture6A.pdf
 uid: 86473086-70b3-6d7d-dea4-311b19cc614b

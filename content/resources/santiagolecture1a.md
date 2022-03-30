@@ -4,6 +4,7 @@ description: 'Urban Transportation, Land Use, and the Environment in Latin Ameri
   A Case Study Approach The Santiago Metropolitan Area'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/8917464c471ca14232dd8e8ad887abf7_SantiagoLecture1A.pdf
 file_type: application/pdf
+parent_uid: d94c6824-766e-f0dc-d714-c88bc9fd0fdd
 resourcetype: Document
 title: SantiagoLecture1A.pdf
 uid: 8917464c-471c-a142-32dd-8e8ad887abf7
